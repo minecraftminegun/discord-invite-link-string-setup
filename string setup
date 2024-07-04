@@ -11,7 +11,7 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
 	Name = "Copy link to discord",
 	Callback = function()
-      	setclipboard('https://discord.gg/Y6t5gsug')
+      	setclipboard('https://discord.gg/Pv7YwSJw')
 	end
 })
 
@@ -31,5 +31,5 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
-setclipboard('https://discord.gg/Y6t5gsug')
+setclipboard('https://discord.gg/Pv7YwSJw')
 OrionLib:Init()
